@@ -1,3 +1,10 @@
+/* https://github.com/mbnuqw/sidebery/wiki/Firefox-Styles-Snippets-(via-userChrome.css) */
+
+/* #TabsToolbar { */
+#main-window[titlepreface*="[Sidebery]"] #TabsToolbar {
+  display: none;
+}
+
 #sidebar-header {
   display: none;
 }
