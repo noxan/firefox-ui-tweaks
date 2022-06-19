@@ -28,7 +28,7 @@
 #main-window[tabsintitlebar="true"]:not([extradragspace="true"])
     #sidebar-box[sidebarcommand="_3c078156-979c-498b-8990-85f7987dd929_-sidebar-action"]
     #sidebar {
-    width: 195px !important;
+    width: 240px !important;
 }
 
 #main-window[tabsintitlebar="true"]:not([extradragspace="true"])
