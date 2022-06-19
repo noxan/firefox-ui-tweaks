@@ -1,6 +1,6 @@
 # firefox-ui-tweaks
 
-![Screenshot of Firefox with tweaked UI](https://github.com/noxan/firefox-ui-tweaks/raw/main/screenshots/Screen Shot 2022-06-19 at 11.33.08 PM.png)
+![Screenshot of Firefox with tweaked UI](<https://github.com/noxan/firefox-ui-tweaks/raw/main/screenshots/Screen Shot 2022-06-19 at 11.33.08 PM.png>)
 
 Custom Firefox UI tweaks based on userChrome.css configuration
 
